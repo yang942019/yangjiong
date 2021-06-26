@@ -1,0 +1,54 @@
+{
+  "uid" : "1e68566b49ed9248",
+  "name" : "test_01",
+  "fullName" : "test_demo.test_case#test_01",
+  "historyId" : "8810d86042a9b8e8c5c127a826fadcb0",
+  "time" : {
+    "start" : 1624459669293,
+    "stop" : 1624459669293,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "webui"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_demo"
+  }, {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-26ID3CI"
+  }, {
+    "name" : "thread",
+    "value" : "6252-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo.test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "webui" ]
+  },
+  "source" : "1e68566b49ed9248.json",
+  "parameterValues" : [ ]
+}
