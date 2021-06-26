@@ -7,12 +7,12 @@
       "name" : "test_case",
       "children" : [ {
         "name" : "test_01",
-        "uid" : "1f292cdd1953324d",
+        "uid" : "90055f1424975253",
         "parentUid" : "c671179890df700a2d1bba80b23b1a4f",
         "status" : "passed",
         "time" : {
-          "start" : 1624680117526,
-          "stop" : 1624680117526,
+          "start" : 1624681652500,
+          "stop" : 1624681652500,
           "duration" : 0
         },
         "flaky" : false,
@@ -20,25 +20,12 @@
         "parameters" : [ ]
       }, {
         "name" : "test_02",
-        "uid" : "e361b633360c52c1",
+        "uid" : "74195d156a9031b1",
         "parentUid" : "c671179890df700a2d1bba80b23b1a4f",
         "status" : "passed",
         "time" : {
-          "start" : 1624680117531,
-          "stop" : 1624680117532,
-          "duration" : 1
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "test_03",
-        "uid" : "b62d19c9b032a05",
-        "parentUid" : "c671179890df700a2d1bba80b23b1a4f",
-        "status" : "passed",
-        "time" : {
-          "start" : 1624680117534,
-          "stop" : 1624680117534,
+          "start" : 1624681652500,
+          "stop" : 1624681652500,
           "duration" : 0
         },
         "flaky" : false,
@@ -46,12 +33,25 @@
         "parameters" : [ ]
       }, {
         "name" : "test_04",
-        "uid" : "652fab89508eddbd",
+        "uid" : "7de32a4ed4eea57a",
         "parentUid" : "c671179890df700a2d1bba80b23b1a4f",
         "status" : "passed",
         "time" : {
-          "start" : 1624680117537,
-          "stop" : 1624680117537,
+          "start" : 1624681652500,
+          "stop" : 1624681652500,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_03",
+        "uid" : "c1d93c28afb6d883",
+        "parentUid" : "c671179890df700a2d1bba80b23b1a4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624681652500,
+          "stop" : 1624681652500,
           "duration" : 0
         },
         "flaky" : false,

@@ -1,4 +1,9 @@
 [ {
+  "buildOrder" : 13,
+  "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/13/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
   "buildOrder" : 12,
   "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/12/allure",
   "reportName" : "AllureReport",

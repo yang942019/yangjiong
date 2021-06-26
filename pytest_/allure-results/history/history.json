@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 8,
+      "passed" : 9,
       "unknown" : 0,
-      "total" : 8
+      "total" : 9
     },
     "items" : [ {
+      "uid" : "1f292cdd1953324d",
+      "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/13/allure/#testresult/1f292cdd1953324d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624680117526,
+        "stop" : 1624680117526,
+        "duration" : 0
+      }
+    }, {
       "uid" : "d188a09501aabde6",
       "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/12/allure/#testresult/d188a09501aabde6",
       "status" : "passed",
@@ -87,11 +96,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 8,
+      "passed" : 9,
       "unknown" : 0,
-      "total" : 8
+      "total" : 9
     },
     "items" : [ {
+      "uid" : "e361b633360c52c1",
+      "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/13/allure/#testresult/e361b633360c52c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624680117531,
+        "stop" : 1624680117532,
+        "duration" : 1
+      }
+    }, {
       "uid" : "d7ab44860b099d8a",
       "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/12/allure/#testresult/d7ab44860b099d8a",
       "status" : "passed",
@@ -170,11 +188,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 8,
+      "passed" : 9,
       "unknown" : 0,
-      "total" : 8
+      "total" : 9
     },
     "items" : [ {
+      "uid" : "652fab89508eddbd",
+      "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/13/allure/#testresult/652fab89508eddbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624680117537,
+        "stop" : 1624680117537,
+        "duration" : 0
+      }
+    }, {
       "uid" : "d2641f7655402c7f",
       "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/12/allure/#testresult/d2641f7655402c7f",
       "status" : "passed",
@@ -253,11 +280,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 8,
+      "passed" : 9,
       "unknown" : 0,
-      "total" : 8
+      "total" : 9
     },
     "items" : [ {
+      "uid" : "b62d19c9b032a05",
+      "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/13/allure/#testresult/b62d19c9b032a05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624680117534,
+        "stop" : 1624680117534,
+        "duration" : 0
+      }
+    }, {
       "uid" : "f532e38e26526d9a",
       "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/12/allure/#testresult/f532e38e26526d9a",
       "status" : "passed",

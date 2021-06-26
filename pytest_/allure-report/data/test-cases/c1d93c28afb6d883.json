@@ -1,0 +1,217 @@
+{
+  "uid" : "c1d93c28afb6d883",
+  "name" : "test_03",
+  "fullName" : "test_demo.test_case#test_03",
+  "historyId" : "2f48ffcc59a79109754f9d538bb34c7b",
+  "time" : {
+    "start" : 1624681652500,
+    "stop" : 1624681652500,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_demo"
+  }, {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-26ID3CI"
+  }, {
+    "name" : "thread",
+    "value" : "3356-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo.test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d98b84ddbc64d355",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624680117534,
+        "stop" : 1624680117534,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "816a8e127cc5cba4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624679853906,
+        "stop" : 1624679853906,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3a47f61e4582dc5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624674209514,
+        "stop" : 1624674209514,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dd927cda0caa151f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624459669293,
+        "stop" : 1624459669293,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "83045e90182af0ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624459055248,
+        "stop" : 1624459055248,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "94afc02eb434b5cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624458778627,
+        "stop" : 1624458778627,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a7c874c9707ecc3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624458301849,
+        "stop" : 1624458301849,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f155ac379e9f8d4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624457215896,
+        "stop" : 1624457215896,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "44acb1259ed0c79c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624457198875,
+        "stop" : 1624457198875,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 10
+      },
+      "items" : [ {
+        "uid" : "b62d19c9b032a05",
+        "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/13/allure/#testresult/b62d19c9b032a05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624680117534,
+          "stop" : 1624680117534,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f532e38e26526d9a",
+        "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/12/allure/#testresult/f532e38e26526d9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624679853906,
+          "stop" : 1624679853906,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "ebea25e9d0eefa5c",
+        "reportUrl" : "http://192.168.232.1:8080/jenkins/job/luo/11/allure/#testresult/ebea25e9d0eefa5c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624674209514,
+          "stop" : 1624674209514,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f57a2690dd59d47b",
+        "reportUrl" : "http://localhost:8080/jenkins/job/luo/10/allure/#testresult/f57a2690dd59d47b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624459669293,
+          "stop" : 1624459669293,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "42a1b25c274bba2f",
+        "reportUrl" : "http://localhost:8080/jenkins/job/luo/9/allure/#testresult/42a1b25c274bba2f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624459055248,
+          "stop" : 1624459055248,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1b607eb220aa0abd",
+        "reportUrl" : "http://localhost:8080/jenkins/job/luo/8/allure/#testresult/1b607eb220aa0abd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624458778627,
+          "stop" : 1624458778627,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "811d9a728b05afa9",
+        "reportUrl" : "http://localhost:8080/jenkins/job/luo/7/allure/#testresult/811d9a728b05afa9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624458301849,
+          "stop" : 1624458301849,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f3436d5b02c05e9",
+        "reportUrl" : "http://localhost:8080/jenkins/job/luo/6/allure/#testresult/f3436d5b02c05e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624457215896,
+          "stop" : 1624457215896,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5e28588e2d457a0d",
+        "reportUrl" : "http://localhost:8080/jenkins/job/luo/5/allure/#testresult/5e28588e2d457a0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624457198875,
+          "stop" : 1624457198875,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c1d93c28afb6d883.json",
+  "parameterValues" : [ ]
+}
