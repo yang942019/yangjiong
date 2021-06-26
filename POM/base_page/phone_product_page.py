@@ -19,7 +19,7 @@ class PhonePage(CommonKey):
             3. 行为
     '''
     # url
-    url = read_fig('../config/config.ini', 'TEST_SERVER', 'url') + 'shopxo/index.php?s=/index/goods/index/id/2.html'
+    url = read_fig('TEST_SERVER', 'url') + 'shopxo/index.php?s=/index/goods/index/id/2.html'
 
     # 关键元素
     suite = ('xpath', '//li[@data-value="套餐一"]')

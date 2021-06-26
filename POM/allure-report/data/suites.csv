@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jun 26 19:06:08 CST 2021","Sat Jun 26 19:06:10 CST 2021","1820","test_case","case","TestPom","","","test_assert_cart",""
+"passed","Sat Jun 26 19:06:02 CST 2021","Sat Jun 26 19:06:08 CST 2021","5737","test_case","case","TestPom","","","test_add_cart","
+        添加商品测试
+        "
+"passed","Sat Jun 26 19:05:56 CST 2021","Sat Jun 26 19:06:02 CST 2021","5702","test_case","case","TestPom","","","登录模块测试","
+        登录模块与加入购物车
+        "

@@ -1,0 +1,158 @@
+{
+  "uid" : "5165d36956da5b6e",
+  "name" : "test_add_cart",
+  "fullName" : "test_case.case.TestPom#test_add_cart",
+  "historyId" : "649998e52722f8fcd9d3cdedc5794af6",
+  "time" : {
+    "start" : 1624705562559,
+    "stop" : 1624705568296,
+    "duration" : 5737
+  },
+  "description" : "\n        添加商品测试\n        ",
+  "descriptionHtml" : "<pre><code>    添加商品测试\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestPom",
+    "time" : {
+      "start" : 1624705553427,
+      "stop" : 1624705556848,
+      "duration" : 3421
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "\n        添加商品测试\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "step",
+      "time" : {
+        "start" : 1624705562559,
+        "stop" : 1624705562559,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "num",
+        "value" : "2"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestPom::0",
+    "time" : {
+      "start" : 1624705570120,
+      "stop" : 1624705572423,
+      "duration" : 2303
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试模块1"
+  }, {
+    "name" : "story",
+    "value" : "添加商品"
+  }, {
+    "name" : "epic",
+    "value" : "这是一个商城pom模式测试"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPom"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-26ID3CI"
+  }, {
+    "name" : "thread",
+    "value" : "11868-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "3e9f4071774d3bb2",
+        "reportUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/9/allure/#testresult/3e9f4071774d3bb2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624704097019,
+          "stop" : 1624704102815,
+          "duration" : 5796
+        }
+      }, {
+        "uid" : "9d6f0b338e849bc7",
+        "reportUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/1/allure/#testresult/9d6f0b338e849bc7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624694569228,
+          "stop" : 1624694574221,
+          "duration" : 4993
+        }
+      } ]
+    },
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "5165d36956da5b6e.json",
+  "parameterValues" : [ ]
+}

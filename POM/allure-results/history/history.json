@@ -67,11 +67,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "8ba5ad6b38cd01c8",
+      "reportUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/9/allure/#testresult/8ba5ad6b38cd01c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624704102821,
+        "stop" : 1624704104999,
+        "duration" : 2178
+      }
+    }, {
       "uid" : "6b25505729f6d715",
       "reportUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/1/allure/#testresult/6b25505729f6d715",
       "status" : "passed",
@@ -129,11 +138,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "3e9f4071774d3bb2",
+      "reportUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/9/allure/#testresult/3e9f4071774d3bb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624704097019,
+        "stop" : 1624704102815,
+        "duration" : 5796
+      }
+    }, {
       "uid" : "9d6f0b338e849bc7",
       "reportUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/1/allure/#testresult/9d6f0b338e849bc7",
       "status" : "passed",
@@ -149,11 +167,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "fbb077064be36a56",
+      "reportUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/9/allure/#testresult/fbb077064be36a56",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624704090385,
+        "stop" : 1624704097012,
+        "duration" : 6627
+      }
+    }, {
       "uid" : "324fdbdefb89f47f",
       "reportUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/1/allure/#testresult/324fdbdefb89f47f",
       "status" : "passed",

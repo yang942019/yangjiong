@@ -34,7 +34,7 @@ class TestPom:
     @allure.testcase('shopxo/index.php?s=/index/user/logininfo.html')
     @allure.title('登录模块测试')
     @allure.story('pom测试，目前模块为登录模块')
-    @pytest.mark.parametrize('data', read('../data/login.yaml'))
+    @pytest.mark.parametrize('data', read(r'D:\daily_use\python\git_warehouse\POM\data\login.yaml'))
     def test_login(self, data):
         '''
         登录模块与加入购物车

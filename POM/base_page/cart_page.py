@@ -10,7 +10,7 @@ from POM.config.read_config import read_fig
 
 
 class CartPage(CommonKey):
-    url = read_fig('../config/config.ini', 'TEST_SERVER', 'url') + 'shopxo/index.php?s=/index/cart/index.html'
+    url = read_fig('TEST_SERVER', 'url') + 'shopxo/index.php?s=/index/cart/index.html'
 
     goods = ('xpath', '//a[contains(text(),"iPhone")]')
 

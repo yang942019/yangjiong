@@ -8,7 +8,7 @@ from POM.config.read_config import read_fig
 
 
 class Login(CommonKey):
-    url = read_fig('../config/config.ini', 'TEST_SERVER', 'url') + 'shopxo/index.php?s=/index/user/logininfo.html'
+    url = read_fig('TEST_SERVER', 'url') + 'shopxo/index.php?s=/index/user/logininfo.html'
     user_input = ('xpath', '//input[@name="accounts"]')
     psd_input = ('name', 'pwd')
     login = ('xpath', '//button[text()="登录"]')

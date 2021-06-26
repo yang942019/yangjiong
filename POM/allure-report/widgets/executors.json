@@ -2,9 +2,9 @@
   "name" : "Jenkins",
   "type" : "jenkins",
   "url" : "http://192.168.232.1:8080/jenkins/",
-  "buildOrder" : 7,
-  "buildName" : "测试商城盘pom #7",
-  "buildUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/7/",
+  "buildOrder" : 11,
+  "buildName" : "测试商城盘pom #11",
+  "buildUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/11/",
   "reportName" : "AllureReport",
-  "reportUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/7/allure"
+  "reportUrl" : "http://192.168.232.1:8080/jenkins/job/%E6%B5%8B%E8%AF%95%E5%95%86%E5%9F%8E%E7%9B%98pom/11/allure"
 } ]
